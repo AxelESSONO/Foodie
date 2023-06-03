@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Foodie</string>
+    <string name="welcome">Welcome</string>
+    <string name="order_desc">Order all you want from your favourite stores</string>
+    <string name="order">Order</string>
+    <string name="set_delivery_location">Set Delivery Location</string>
+    <string name="have_an_account">Have an account?</string>
+    <string name="login">Login</string>
+    <string name="confirm_location">Confirm Location</string>
+    <string name="nana_varachha">Nana Varachha</string>
+    <string name="change">Change</string>
+</resources>
